@@ -1,0 +1,25 @@
+Damien Mougenot
+Ugo Vernin
+
+
+Dans l’univers des joueurs de League of Legends, les fans adorent tester leurs connaissances sur le jeu et ses champions. Inspiré du concept de Loldle, notre plateforme va encore plus loin en ajoutant une dimension compétitive et engageante.
+
+Qu'est-ce que Loldle ?
+Loldle est un jeu en ligne où les joueurs doivent deviner un champion de League of Legends en se basant sur des indices comme sa classe(parmis celles présentes dans le jeu), sa région, son genre, sa portée(mêlée ou distance), ou encore sa date de sortie. Chaque tentative donne des indications pour se rapprocher de la bonne réponse.
+
+
+Notre idée ?
+Un site web où les joueurs pourront s'affronter à travers des quizz quotidiens basés sur LoL (skins, citations, compétences…) tout en participant à un classement compétitif.
+
+
+Les fonctionnalités principales :
+
+- Mode Classé : Inscription et création de compte pour enregistrer les séries de victoires.
+- Système de Points : Chaque bonne réponse rapporte des points ; les streaks augmentent les gains.
+- Classement en ligne : Un leaderboard dynamique pour voir les meilleurs joueurs.
+- Défis et Récompenses : Des objectifs hebdomadaires pour motiver les joueurs.
+
+
+Pourquoi ce projet ?
+Le jeu League of Legends a une communauté ultra passionnée. En ajoutant un aspect compétitif et social, notre plateforme peut devenir un incontournable pour les joueurs qui aiment se challenger !
+
